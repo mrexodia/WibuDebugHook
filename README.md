@@ -1,6 +1,6 @@
 # WibuDebugHook
 
-Injectable DLL that helps with debugging Wibu CodeMeter.
+Injectable DLL that helps with debugging Wibu CodeMeter. Credits to [TechLord](https://github.com/TechLord-Forever) for providing sample binaries!
 
 A hollowed process is started with `CreateProcessA`, this is the relevant code:
 
